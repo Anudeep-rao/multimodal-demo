@@ -1,0 +1,8 @@
+streamlit
+openai
+google-generativeai
+pytesseract
+Pillow
+gtts
+SpeechRecognition
+pydub
